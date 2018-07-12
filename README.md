@@ -1,6 +1,4 @@
 # Mastering-Numerical-Computing-with-NumPy
-Mastering Numerical Computing with NumPy, published by Packt
-# Mastering-Numerical-Computing-with-NumPy
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-numerical-computing-numpy?utm_source=github&utm_medium=repositary&utm_campaign=9781788993357"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09997_MockupCover_0.png" alt="Mastering Numerical Computing with NumPy" height="256px" align="right"></a>
 
