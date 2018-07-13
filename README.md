@@ -1,6 +1,6 @@
 # Mastering-Numerical-Computing-with-NumPy
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-numerical-computing-numpy?utm_source=github&utm_medium=repositary&utm_campaign=9781788993357"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09997_MockupCover_0.png" alt="Mastering Numerical Computing with NumPy" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-numerical-computing-numpy?utm_source=github&utm_medium=repositary&utm_campaign=9781788993357"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09997_Newcover.png" alt="Mastering Numerical Computing with NumPy" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Numerical Computing with NumPy](https://www.packtpub.com/big-data-and-business-intelligence/mastering-numerical-computing-numpy?utm_source=github&utm_medium=repositary&utm_campaign=9781788993357), published by Packt.
 
@@ -26,57 +26,41 @@ alt="https://www.packtpub.com/" border="5" /></a>
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
-```
-if (test expression)
-{
-  Statement upon condition is true
-}
-```
+
+'sepal width (cm)',
+'petal length (cm)',
+'petal width (cm)'])
+
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+Mastering Numerical Computing with NumPy is for you if you are a Python programmer, data analyst, data engineer, or a data science enthusiast, who wants to master the intricacies of NumPy and build solutions for your numeric and scientific computational problems. You are expected to have familiarity with mathematics to get the most out of this book.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1-9      | Anaconda distribution of Python 3   | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/MasteringNumericalComputingwithNumPy_ColorImages.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* SciPy Recipes [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/scipy-recipes?utm_source=github&utm_medium=repositary&utm_campaign=9781788291460) [[Amazon]](https://www.amazon.com/dp/1788291468)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Python Data Analysis - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-second-edition?utm_source=github&utm_medium=repositary&utm_campaign=9781787127487) [[Amazon]](https://www.amazon.com/dp/1787127486)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Authors
 
-**Author Name**
-Bio
+**Umit Mert Cakmak** is a data scientist at IBM, where he excels at helping clients solve complex data science problems, from inception to delivery of deployable assets. His research spans multiple disciplines beyond his industry and he likes sharing his insights at conferences, universities, and meet-ups.
+
+
+**Mert Cuhadaroglu** is a BI Developer in EPAM, developing E2E analytics solutions for complex business problems in various industries, mostly investment banking, FMCG, media, communication, and pharma. He consistently uses advanced statistical models and ML algorithms to provide actionable insights. Throughout his career, he has worked in several other industries, such as banking and asset management. He continues his academic research in AI for trading algorithms.	
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Hands-On Automated Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/hands-automated-machine-learning?utm_source=github&utm_medium=repositary&utm_campaign=9781788629898)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
