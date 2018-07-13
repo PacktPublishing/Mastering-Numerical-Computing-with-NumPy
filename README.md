@@ -59,7 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Mert Cuhadaroglu** is a BI Developer in EPAM, developing E2E analytics solutions for complex business problems in various industries, mostly investment banking, FMCG, media, communication, and pharma. He consistently uses advanced statistical models and ML algorithms to provide actionable insights. Throughout his career, he has worked in several other industries, such as banking and asset management. He continues his academic research in AI for trading algorithms.	
 
 
-## Other books by the authors
+## Other book by the authors
 * [Hands-On Automated Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/hands-automated-machine-learning?utm_source=github&utm_medium=repositary&utm_campaign=9781788629898)
 
 ### Suggestions and Feedback
